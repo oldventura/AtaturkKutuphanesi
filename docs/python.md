@@ -30,6 +30,9 @@ Kodlab'in kitapları genellikle güzel oluyor, başlamak için FIRAT ÖZGÜL'ün
 * [w3schools](https://www.w3schools.com/python/)
 * [code academy](https://www.codecademy.com/catalog/language/python)
 
+# Yabancı Kopya Kağıtları
+* [Python Crash Course](https://ehmatthes.github.io/pcc/cheatsheets/README.html)
+
 # Yararlı Olabilecek Github Python Depoları
 | Depo                                                                           | Açıklama                                                                                                                                                                                             |
 | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -39,7 +42,6 @@ Kodlab'in kitapları genellikle güzel oluyor, başlamak için FIRAT ÖZGÜL'ün
 | [SnoSnow-Source](https://github.com/BarjiYT/SnoSnow-Source)                    | Pygame kütüphanesi kullanılarak yapılmış ufak bir oyun.Yine aynı şekilde yeni Python öğreniyorsanız oyun yapmak eğlenceli olabilir ve bu reponun kodundan yararlanabilirsiniz.                       |
 | [Vault](https://github.com/gabfl/vault)                                        | Şifrelerinizi saklamak için bir program.Ben şahsen kullanmanızı tavsiye etmem çünkü aşırı kullanışlı değil ama yeni Python öğreniyorsanız bu projenin kaynak kodlarına bakarak yardım alabilirsiniz. |
 | [google-images-download](https://github.com/hardikvasa/google-images-download) | Kolayca Google fotolardan yüzlerce foto indirebilirsiniz.                                                                                                                                            |
-
 
 # Yararlı Olabilecek Python Kütüphaneleri
 | Kütüphane                           | Açıklama                           |

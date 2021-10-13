@@ -42,6 +42,6 @@
 | Zihin Felsefesi                           | [LINK](https://cdn-acikogretim.istanbul.edu.tr/auzefcontent/20_21_Bahar/zihin_felsefesi/index.html)                         |
 | Çağdaş Sosyoloji Teorileri                | [LINK](https://cdn-acikogretim.istanbul.edu.tr/auzefcontent/20_21_Bahar/cagdas_sosyoloji_teorileri/index.html)              |
 | İlkçağ Felsefesi                          | [LINK](https://cdn-acikogretim.istanbul.edu.tr/auzefcontent/20_21_Guz/ilkcag_felsefesi/index.html)                          |
-| İlkçağ Klasik Dönem Felsefesi Metinleri   | [LINK](https://cdn-acikogretim.istanbul.edu.tr/auzefcontent/20_21_bahar/ilkcag_klasik_donem_felsefesi_metinleri/index.html) |
 | İlkçağ Klasik Dönem Felsefesi             | [LINK](https://cdn-acikogretim.istanbul.edu.tr/auzefcontent/20_21_bahar/ilkcag_klasik_donem_felsefesi/index.html)           |
+| İlkçağ Klasik Dönem Felsefesi Metinleri   | [LINK](https://cdn-acikogretim.istanbul.edu.tr/auzefcontent/20_21_bahar/ilkcag_klasik_donem_felsefesi_metinleri/index.html) |
 | İslam Düşüncesine Giriş                   | [LINK](https://cdn-acikogretim.istanbul.edu.tr/auzefcontent/20_21_Guz/islam_dusuncesine_giris/index.html)                   |
