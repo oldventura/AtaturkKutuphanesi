@@ -1,0 +1,19 @@
+site_name: Atatürk Kütüphanesi
+site_url: https://example.com/
+theme:
+    name: mkdocs
+    nav_style: dark
+    shortcuts:
+        help: 72     # h
+        next: 78     # n
+        previous: 80 # p
+        search: 83   # s
+
+nav:
+    - Ana Sayfa: index.md
+    - Kaynaklar: sources.md
+
+plugins:
+    - search:
+        lang: tr
+        indexing: 'full'
