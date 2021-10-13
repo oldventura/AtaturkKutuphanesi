@@ -17,3 +17,7 @@ plugins:
     - search:
         lang: tr
         indexing: 'full'
+
+markdown_extensions:
+    - toc:
+        baselevel: 1
