@@ -1,5 +1,7 @@
 # Python
 
+---
+
 # Python Öğrenmeye Başlayacaklar İçin
 Eğer bu programlama dilini yeni öğrenmeye başlıyorsanız, yapabileceğiniz en iyi şey bir kitap almaktır.  
 Şart değil tabii ki ama elinizin altında referans olarak da güzel iş görür.  
