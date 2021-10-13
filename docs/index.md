@@ -5,6 +5,7 @@ Türkçe Dilinde Kaynakları Bir Araya Toplama Projesi
 
 * Kaynaklar kısmından konu başlıklarına göre sınıflandırılmış kaynaklara ulaşabilirsiniz.  
 * Ayrıca sayfanın yukarısındaki arama özelliğini kullanarak aramanızı yapabilirsiniz.
+* Tuş kısayollarını görmek için `h` tuşuna basabilirsiniz.
 
 ## Projeye Katkı Sağlama
 
