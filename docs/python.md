@@ -15,11 +15,11 @@ Kodlab'in kitapları genellikle güzel oluyor, başlamak için FIRAT ÖZGÜL'ün
 # Üniversite Kursları
 | Üniversite | İsim | Dil | Fiyat | Link |
 | --- | --- | --- | --- | --- |
-| Harvard | CS50's Web Programming with Python and JavaScript | İngilizce | Ücretsiz | https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript |
-| Harvard | Using Python for Research | İngilizce | Ücretsiz | https://www.edx.org/course/using-python-for-research |
-| Harvard | CS50's Introduction to Artificial Intelligence with Python | İngilizce | Ücretsiz | https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python |
-| MIT | Introduction to Computer Science and Programming Using Python | İngilizce | Ücretsiz | https://www.edx.org/course/introduction-to-computer-science-and-programming-7 |
-| RWTH Aachen | Mathematical Optimization for Engineers | İngilizce | Ücretsiz | https://www.edx.org/course/mathematical-optimization-for-engineers |
+| Harvard | CS50's Web Programming with Python and JavaScript | İngilizce | Ücretsiz | [LINK](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript) |
+| Harvard | Using Python for Research | İngilizce | Ücretsiz | [LINK](https://www.edx.org/course/using-python-for-research) |
+| Harvard | CS50's Introduction to Artificial Intelligence with Python | İngilizce | Ücretsiz | [LINK](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python) |
+| MIT | Introduction to Computer Science and Programming Using Python | İngilizce | Ücretsiz | [LINK](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) |
+| RWTH Aachen | Mathematical Optimization for Engineers | İngilizce | Ücretsiz | [LINK](https://www.edx.org/course/mathematical-optimization-for-engineers) |
 
 # Yabancı Python Eğitimleri
 * [Tutorialspoint Python](https://www.tutorialspoint.com/python/index.htm)
