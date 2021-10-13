@@ -10,6 +10,7 @@ Türkçe Dilinde Kaynakları Bir Araya Toplama Projesi
 Kendi reddit sub'ımıza üye olup eklemek istediğiniz kaynakları veya açmak istediğiniz yeni konu başlıklarını bize post atarak bildirebilirsiniz. Veya github üzerinden request atabilirsiniz.
 
 Tüm iletişim kanallarımız aşağıda yazdığı gibidir:
+
 - [u/oldventura](https://reddit.com/user/oldventura)  
-- [github.com/oldventura](https://github.com/oldventura)  
+- [github repo](https://github.com/oldventura/AtaturkKutuphanesi)  
 - [r/AtaturkKutuphanesi](https://reddit.com/r/AtaturkKutuphanesi)  
