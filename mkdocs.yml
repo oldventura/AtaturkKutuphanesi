@@ -10,6 +10,6 @@ theme:
         search: 83   # s
 
 nav:
-    - Home: index.md
+    - Ana Sayfa: index.md
     - Kaynaklar: sources.md
 
