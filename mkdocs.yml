@@ -12,3 +12,8 @@ theme:
 nav:
     - Ana Sayfa: index.md
     - Kaynaklar: sources.md
+
+plugins:
+    - search:
+        lang: tr
+        indexing: 'full'
