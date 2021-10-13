@@ -1,2 +1,1 @@
-# AtaturkKutuphanesi
-Türkçe Dilinde Kaynaklar
+# Atatürk Kütüphanesi
