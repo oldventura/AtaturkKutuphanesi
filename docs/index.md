@@ -13,5 +13,5 @@ Kendi reddit sub'ımıza üye olup eklemek istediğiniz kaynakları veya açmak 
 Tüm iletişim kanallarımız aşağıda yazanlardır:
 
 - [u/oldventura](https://reddit.com/user/oldventura)  
-- [github.com/oldventura](https://github.com/oldventura)  
+- [github repo](https://github.com/oldventura/AtaturkKutuphanesi)  
 - [r/AtaturkKutuphanesi](https://reddit.com/r/AtaturkKutuphanesi)  
