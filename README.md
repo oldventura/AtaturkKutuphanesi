@@ -1,5 +1,5 @@
 # Atatürk Kütüphanesi
-Türkçe Dilinde Kaynakları Bir Araya Toplama Projesi
+Türkçe Dilinde Kaynakları Bir Araya Toplamayı Amaçlayan Bir Topluluk Projesi
 
 ## Nasıl Kullanılır?
 İçeriklere erişmek için lütfen sitemizi ziyaret edin:  
