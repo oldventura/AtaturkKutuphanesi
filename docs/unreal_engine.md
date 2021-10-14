@@ -1,13 +1,15 @@
 # Unreal Engine
+Unreal Engine, Epic Games tarafından geliştirilen bir oyun motorudur.  
+-> [Vikipedi](https://tr.wikipedia.org/wiki/Unreal_Engine)
 
 ---
 
-## Unreal Engine Dokümantasyonu
+## Dokümantasyon
 UE ne yazık ki Türkçe dilinde dokümantasyon sunmuyor.  
 İngilizce dilindeki dokümantasyona [şuradan](https://docs.unrealengine.com/) ulaşabilirsiniz.
 
 ## Udemy Kursları
-| Yaratıcı         | İsim                                                         | Süre  | Fiyat  | Link                                                                                         |
+| Eğitmen         | Kurs                                                         | Süre  | Fiyat  | Link                                                                                         |
 | ---------------- | ------------------------------------------------------------ | ----- | ------ | -------------------------------------------------------------------------------------------- |
 | Hasan Özoğlu     | Unreal Engine 4: Kapsamlı Projeler Üzerinden Oyun Geliştirme | 66h   | 36,99₺ | [LINK](https://www.udemy.com/course/unreal-engine-4-oyun-gelistirme-kursu/)                  |
 | Umut Faruk Dilli | Unreal Engine 4 Türkçe Kurs                                  | 25h   | 47,99₺ | [LINK](https://www.udemy.com/course/orneklerle-sifirdan-ileri-duzeye-unreal-engine-4-kursu/) |
