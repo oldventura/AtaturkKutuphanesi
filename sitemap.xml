@@ -26,6 +26,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://example.com/unity/</loc>
+         <lastmod>2021-10-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://example.com/unreal_engine/</loc>
          <lastmod>2021-10-14</lastmod>
          <changefreq>daily</changefreq>
