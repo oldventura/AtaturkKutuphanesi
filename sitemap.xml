@@ -11,6 +11,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://example.com/literature/</loc>
+         <lastmod>2021-10-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://example.com/philosophy/</loc>
          <lastmod>2021-10-14</lastmod>
          <changefreq>daily</changefreq>
