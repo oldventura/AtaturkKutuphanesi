@@ -13,3 +13,6 @@
 
 ## Yazılım
 * [Python](python.md)
+
+## Din
+* [İslam](islam.md)
