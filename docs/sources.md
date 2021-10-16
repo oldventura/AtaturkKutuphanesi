@@ -12,6 +12,9 @@
 ## Eğitim
 * [Yardımcı Kitaplar](yardimci_kitaplar.md)
 
+## Siyaset
+* [Siyasi Dergiler](political_magazines.md)
+
 ## Sosyal Bilimler
 * [Edebiyat](literature.md)
 * [Felsefe](philosophy.md)
