@@ -1,5 +1,7 @@
 # Siyasi Dergiler
 
+---
+
 ## Türkiye’de Anarşist Düşünce Tarihi Serisi
 * [Amargi Dergisi Seçkisi](https://mega.nz/folder/Rc9GAaQJ#pDsIcYmaMib3ugEPFOPLZg/file/dJk0AAzY)
 * [Apolitika Dergisi Seçkisi](https://mega.nz/folder/Rc9GAaQJ#pDsIcYmaMib3ugEPFOPLZg/file/Mc8GAIAS)
