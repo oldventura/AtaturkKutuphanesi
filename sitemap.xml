@@ -6,7 +6,32 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://example.com/c/</loc>
+         <lastmod>2021-10-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/cpp/</loc>
+         <lastmod>2021-10-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/go/</loc>
+         <lastmod>2021-10-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/haskell/</loc>
+         <lastmod>2021-10-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://example.com/islam/</loc>
+         <lastmod>2021-10-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/java/</loc>
          <lastmod>2021-10-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
