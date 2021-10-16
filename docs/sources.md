@@ -20,4 +20,8 @@
 * [Felsefe](philosophy.md)
 
 ## Yazılım
+* [Go](go.md)
+* [Haskell](haskell.md)
+* [C](c.md)
+* [C++](cpp.md)
 * [Python](python.md)
