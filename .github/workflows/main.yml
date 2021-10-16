@@ -1,4 +1,23 @@
-- name: Deploy MkDocs
-  # You may pin to the exact commit or the version.
-  # uses: mhausenblas/mkdocs-deploy-gh-pages@68831f08f919b79d2bd3cee79dfd7d6e12c9722e
-  uses: mhausenblas/mkdocs-deploy-gh-pages@1.23
+name: Documentation
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "**.md"
+      - "mkdocs.yml"
+  workflow_dispatch:
+  
+jobs:
+  docs:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v2
+      - run: pip install --upgrade pip && pip install mkdocs mkdocs-gen-files
+      - run: git config user.name 'github-actions[bot]' && git config user.email 'github-actions[bot]@users.noreply.github.com'
+      - name: Publish docs
+        run: mkdocs gh-deploy
