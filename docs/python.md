@@ -54,3 +54,6 @@ Kodlab'in kitapları genellikle güzel oluyor, başlamak için FIRAT ÖZGÜL'ün
 * [python.org](https://www.python.org/)
 * [pypi](https://pypi.org/)
 * [python depoları](https://github.com/python)
+
+# Diğer
+* [edu.anarcho-copy](https://edu.anarcho-copy.org/Programming%20Languages/Python/)
