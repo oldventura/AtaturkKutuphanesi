@@ -5,12 +5,8 @@
 ## 100 Temel Eser
 * [EPUB Arşivi](https://mega.nz/folder/dVskDS7S#vKdRFbzxzFSPytD0OcO_7A)
 
-## Örnek Sınavlar
-| Yıl  | Tür     | Ad                   | Link                                                                                    |
-| ---- | ------- | -------------------- | --------------------------------------------------------------------------------------- |
-| 2020 | Sözel   | 2020_SOZEL_BOLUM_A   | [LINK](https://www.meb.gov.tr/meb_iys_dosyalar/2020_06/21195531_2020_sozel_bolum_a.pdf) |
-| 2021 | Sayısal | 2021_SAYISAL_BOLUM_A | [LINK](https://cdn.eba.gov.tr/icerik/lgs/2021_SAYISAL_BOLUM_A_.pdf)                     |
-| 2021 | Sözel   | 2021_SOZEL_BOLUM_A   | [LINK](https://cdn.eba.gov.tr/icerik/lgs/2021_SOZEL_BOLUM_A_.pdf)                       |
+## Ansiklopedi
+* [Meydan Larousse: Büyük Lugat ve Ansiklopedi](https://mega.nz/folder/eksQCD4I#TpgzLoUlKjCpssYEkV60oA)
 
 ## Soru Bankaları
 | Yayıncı                      | Sınıf    | Tür                                | İsim                                                                                  | Link                                            |
@@ -59,3 +55,9 @@
 | ÇANTA                        | 8. SINIF | Sözel                              | TÜRKİYE GENELİ LGS DENEMESİ SÖZEL                                                     | [LINK](https://disk.yandex.ru/i/AYXpEf9NlfGGng) |
 | İŞLEYEN ZEKA                 | 8. SINIF | Türkçe                             | YÖRÜNGE SERİSİ PARAGRAF SORU BANKASI                                                  | [LINK](https://disk.yandex.ru/i/XL2Uv1GnFhFT0w) |
 
+## Örnek Sınavlar
+| Yıl  | Tür     | Ad                   | Link                                                                                    |
+| ---- | ------- | -------------------- | --------------------------------------------------------------------------------------- |
+| 2020 | Sözel   | 2020_SOZEL_BOLUM_A   | [LINK](https://www.meb.gov.tr/meb_iys_dosyalar/2020_06/21195531_2020_sozel_bolum_a.pdf) |
+| 2021 | Sayısal | 2021_SAYISAL_BOLUM_A | [LINK](https://cdn.eba.gov.tr/icerik/lgs/2021_SAYISAL_BOLUM_A_.pdf)                     |
+| 2021 | Sözel   | 2021_SOZEL_BOLUM_A   | [LINK](https://cdn.eba.gov.tr/icerik/lgs/2021_SOZEL_BOLUM_A_.pdf)                       |
